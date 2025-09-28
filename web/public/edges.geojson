@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+  {"type":"Feature","id":"E1","properties":{"id":"E1","name":"GreatHwy"},"geometry":{"type":"LineString","coordinates":[[-122.510,37.760],[-122.500,37.760]]}},
+  {"type":"Feature","id":"E2","properties":{"id":"E2","name":"Connector"},"geometry":{"type":"LineString","coordinates":[[-122.500,37.760],[-122.480,37.775]]}}
+]}
